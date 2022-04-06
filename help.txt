@@ -1,0 +1,1 @@
+https://jhooq.com/kubespray-12-steps-for-installing-a-production-ready-kubernetes-cluster/
