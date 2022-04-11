@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/asd/Desktop/development/kubernetes-spray ","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/amaster_data":{"guestpath":"/amaster_data","hostpath":"/home/asd/Desktop/development/kubernetes-spray /vagrant_machines","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/asd/Desktop/development/kubernetes-spray ","disabled":false,"__vagrantfile":true}}}
